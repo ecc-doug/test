@@ -1,4 +1,4 @@
 # test
-Just another repository
+Not just another repository
 
 Edits to README.md for demo purposes
